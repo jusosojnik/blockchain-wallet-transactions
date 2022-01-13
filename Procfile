@@ -1,0 +1,1 @@
+web: src/blockchain/server/http.js 9000
