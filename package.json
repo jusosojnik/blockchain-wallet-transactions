@@ -22,7 +22,7 @@
     "typescript": "^4.2.4"
   },
   "scripts": {
-    "start": "node src/blockchain/server/http.js 9000"
+    "start": "node src/blockchain/server/http.js"
   },
   "repository": {
     "type": "git",

@@ -1,1 +1,1 @@
-web: src/blockchain/server/http.js 9000
+web: src/blockchain/server/http.js
