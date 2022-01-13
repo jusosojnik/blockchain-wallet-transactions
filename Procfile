@@ -1,1 +1,1 @@
-web: src/blockchain/server/http.js
+web: node src/blockchain/server/http.js
