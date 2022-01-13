@@ -1,1 +1,1 @@
-web: node src/blockchain/server/http.js
+worker:node src/blockchain/server/http.js
